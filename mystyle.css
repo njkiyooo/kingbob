@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style>
+body {
+  background-image: url("paper.gif");
+}
+</style>
 </head>
 <body>
 
+<h1>Buwan ng Wika </h1>
 
-<center><h1>Buwan ng Wika</h1></center>
-<h2>  Maligayang Buwan ng Wika  </h2>
-<h3>  17 Years Old  </h3>
-<h4>  Male  </h4>
-<h5>  Panapaan 6  </h5>
-<h6>  Jungle Main  </h6>
-<p>My first paragraph.</p>
-<p>My first paragraph.</p>
-
-
+<p>Maligayang Buwan ng Wika</p>
 
 </body>
 </html>
+
+
